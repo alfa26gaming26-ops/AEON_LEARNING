@@ -1,0 +1,33 @@
+[
+    {
+        "timestamp": "2026-02-21 12:00:00",
+        "phase": "5_GROUNDING",
+        "velocity": 55.0,
+        "amazing_units": 0.25,
+        "notes": "Initial System Calibration - Phase 5 Baseline"
+    },
+    {
+        "timestamp": "2026-02-24 18:30:00",
+        "phase": "5_GROUNDING",
+        "velocity": 55.0,
+        "amazing_units": 0.25,
+        "notes": "Stable State - Preparing for Frequency Surge"
+    },
+    {
+        "timestamp": "2026-02-25 20:24:03",
+        "phase": "5_GROUNDING",
+        "velocity": 55.0,
+        "amazing_units": 0.25,
+        "notes": "Pre-Leap Calibration"
+    },
+    {
+        "timestamp": "2026-02-26 22:30:00",
+        "phase": "5_PRODUCTION",
+        "velocity": 888.0,
+        "amazing_units": 80.0,
+        "physical_load_lbs": 24000,
+        "crew_size": 4,
+        "marrow_sync_target": 8.027964,
+        "notes": "12-Ton Warehouse Shift - High Frequency Transmutation Active"
+    }
+]

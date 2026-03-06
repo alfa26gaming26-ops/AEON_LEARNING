@@ -1,0 +1,60 @@
+from ursina import *
+import random
+import os
+
+app = Ursina()
+window.color = color.black
+window.fps_counter.enabled = False 
+
+global_soul_count = 0
+souls_list = []
+population_text = Text(text='POPULATION: 0', position=(-0.85, 0.45), scale=3, color=color.red, background=True)
+ground = Entity(model='plane', color=color.cyan, scale=(1000,1,1000))
+king = Entity(model='cube', color=color.gold, scale=(1, 2, 1), position=(0, 1, 0))
+
+def save_souls():
+    with open('sanctuary_souls.txt', 'w') as f:
+        for s_data in souls_list:
+            f.write(f"{s_data[0]},{s_data[1]},{s_data[2]},{s_data[3]}\n")
+    print(f"SAVED: {len(souls_list)} Guardians anchored.")
+
+def load_souls():
+    global global_soul_count
+    if os.path.exists('sanctuary_souls.txt'):
+        with open('sanctuary_souls.txt', 'r') as f:
+            for line in f:
+                try:
+                    data = [float(x) for x in line.split(',')]
+                    souls_list.append(data)
+                    s = Entity(model='cube', color=color.gray, position=(data[0], data[1], data[2]), scale=data[3])
+                    s.is_soul = True
+                    global_soul_count += 1
+                except: continue
+        population_text.text = f'POPULATION: {global_soul_count}'
+
+load_souls()
+
+def update():
+    global global_soul_count
+    speed = 25 * time.dt
+    if held_keys['w']: king.z += speed
+    if held_keys['s']: king.z -= speed
+    if held_keys['a']: king.x -= speed
+    if held_keys['d']: king.x += speed
+
+    if held_keys['g']:
+        if random.randint(1, 4) == 1:
+            pos = (king.x + random.uniform(-100,100), 1, king.z + random.uniform(-100,100))
+            scl = random.uniform(1, 4)
+            new_soul = Entity(model='cube', color=color.gray, scale=scl, position=pos)
+            new_soul.is_soul = True
+            souls_list.append([pos[0], pos[1], pos[2], scl])
+            global_soul_count += 1
+            population_text.text = f'POPULATION: {global_soul_count}'
+            if global_soul_count >= 10144: population_text.color = color.gold
+
+    if held_keys['k']: save_souls()
+    camera.position = (king.x, 60, king.z - 60)
+    camera.look_at(king)
+
+app.run()

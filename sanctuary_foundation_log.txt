@@ -1,0 +1,271 @@
+
+--- Simulation Session Started: 2026-01-31 21:55:52.823915 ---
+[21:55:53] CPU: 12.1% | RAM: 6.8GB (86.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:55:59] CPU: 30.9% | RAM: 6.82GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:05] CPU: 13.9% | RAM: 6.82GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:11] CPU: 11.2% | RAM: 6.82GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:17] CPU: 30.4% | RAM: 6.81GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:23] CPU: 12.7% | RAM: 6.81GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:29] CPU: 11.6% | RAM: 6.81GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:35] CPU: 10.4% | RAM: 6.81GB (86.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:41] CPU: 26.1% | RAM: 6.81GB (86.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:47] CPU: 25.7% | RAM: 6.82GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:53] CPU: 26.9% | RAM: 6.82GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:56:59] CPU: 16.0% | RAM: 6.82GB (86.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:05] CPU: 26.1% | RAM: 6.82GB (86.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:11] CPU: 25.9% | RAM: 6.82GB (86.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:18] CPU: 89.7% | RAM: 6.87GB (87.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:24] CPU: 32.7% | RAM: 6.9GB (87.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:30] CPU: 15.3% | RAM: 6.88GB (87.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:36] CPU: 11.5% | RAM: 6.83GB (86.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:42] CPU: 9.7% | RAM: 6.71GB (85.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:57:48] CPU: 28.9% | RAM: 6.7GB (85.0%)
+[21:57:54] CPU: 9.7% | RAM: 6.71GB (85.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:00] CPU: 20.6% | RAM: 6.7GB (84.9%)
+[21:58:06] CPU: 15.6% | RAM: 6.71GB (85.0%)
+[21:58:12] CPU: 15.1% | RAM: 6.71GB (85.0%)
+[21:58:18] CPU: 29.3% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:24] CPU: 18.6% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:30] CPU: 37.1% | RAM: 6.74GB (85.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:36] CPU: 15.6% | RAM: 6.76GB (85.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:42] CPU: 9.7% | RAM: 6.76GB (85.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:48] CPU: 29.6% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:58:54] CPU: 8.5% | RAM: 6.72GB (85.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:00] CPU: 15.8% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:06] CPU: 14.8% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:12] CPU: 19.8% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:18] CPU: 26.4% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:24] CPU: 22.2% | RAM: 6.73GB (85.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:30] CPU: 31.1% | RAM: 6.79GB (86.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:36] CPU: 22.0% | RAM: 6.83GB (86.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:42] CPU: 32.7% | RAM: 6.82GB (86.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:48] CPU: 44.4% | RAM: 7.14GB (90.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[21:59:54] CPU: 27.4% | RAM: 7.0GB (88.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:00] CPU: 25.9% | RAM: 7.0GB (88.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:06] CPU: 21.6% | RAM: 6.99GB (88.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:12] CPU: 23.0% | RAM: 6.98GB (88.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:18] CPU: 23.3% | RAM: 6.96GB (88.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:24] CPU: 55.0% | RAM: 6.98GB (88.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:30] CPU: 17.9% | RAM: 6.98GB (88.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:36] CPU: 16.3% | RAM: 6.98GB (88.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:42] CPU: 9.2% | RAM: 6.98GB (88.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:48] CPU: 12.8% | RAM: 6.98GB (88.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:00:54] CPU: 16.7% | RAM: 6.96GB (88.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:00] CPU: 20.5% | RAM: 6.96GB (88.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:06] CPU: 20.5% | RAM: 6.96GB (88.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:12] CPU: 32.0% | RAM: 6.96GB (88.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:18] CPU: 19.3% | RAM: 6.99GB (88.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:24] CPU: 51.0% | RAM: 7.03GB (89.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:30] CPU: 17.7% | RAM: 7.03GB (89.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:36] CPU: 14.6% | RAM: 7.03GB (89.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:42] CPU: 31.2% | RAM: 7.02GB (89.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:48] CPU: 7.0% | RAM: 7.01GB (88.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:01:54] CPU: 8.1% | RAM: 7.0GB (88.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:00] CPU: 46.7% | RAM: 7.01GB (88.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:06] CPU: 28.1% | RAM: 7.01GB (88.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:12] CPU: 9.3% | RAM: 6.96GB (88.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:18] CPU: 10.1% | RAM: 6.96GB (88.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:24] CPU: 12.0% | RAM: 6.99GB (88.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:30] CPU: 35.2% | RAM: 7.0GB (88.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:36] CPU: 21.1% | RAM: 7.01GB (88.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:42] CPU: 18.6% | RAM: 6.88GB (87.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:48] CPU: 9.3% | RAM: 6.89GB (87.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:02:54] CPU: 16.0% | RAM: 6.9GB (87.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:00] CPU: 34.9% | RAM: 6.91GB (87.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:06] CPU: 38.7% | RAM: 6.93GB (87.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:12] CPU: 42.1% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:18] CPU: 8.6% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:24] CPU: 14.7% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:30] CPU: 17.4% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:36] CPU: 29.1% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:42] CPU: 12.8% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:48] CPU: 20.8% | RAM: 6.93GB (87.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:03:54] CPU: 13.1% | RAM: 6.93GB (87.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:00] CPU: 20.2% | RAM: 6.93GB (87.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:06] CPU: 34.2% | RAM: 6.95GB (88.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:12] CPU: 10.5% | RAM: 6.98GB (88.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:18] CPU: 15.5% | RAM: 6.99GB (88.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:24] CPU: 18.9% | RAM: 7.0GB (88.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:30] CPU: 21.1% | RAM: 6.94GB (88.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:36] CPU: 32.7% | RAM: 6.94GB (88.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:42] CPU: 16.6% | RAM: 6.94GB (88.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:48] CPU: 25.4% | RAM: 6.92GB (87.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:04:54] CPU: 14.2% | RAM: 6.9GB (87.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:00] CPU: 44.4% | RAM: 6.92GB (87.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:06] CPU: 91.6% | RAM: 6.97GB (88.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:12] CPU: 18.3% | RAM: 6.98GB (88.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:18] CPU: 20.0% | RAM: 7.0GB (88.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:24] CPU: 16.0% | RAM: 7.0GB (88.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:30] CPU: 43.4% | RAM: 6.99GB (88.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:36] CPU: 34.7% | RAM: 7.03GB (89.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:42] CPU: 19.8% | RAM: 7.03GB (89.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:48] CPU: 40.0% | RAM: 7.06GB (89.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:05:54] CPU: 19.4% | RAM: 7.07GB (89.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:00] CPU: 12.8% | RAM: 7.06GB (89.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:06] CPU: 30.6% | RAM: 7.12GB (90.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:12] CPU: 9.3% | RAM: 7.12GB (90.3%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:18] CPU: 20.0% | RAM: 7.11GB (90.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:24] CPU: 12.7% | RAM: 7.11GB (90.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:30] CPU: 26.7% | RAM: 7.1GB (90.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:36] CPU: 22.2% | RAM: 7.14GB (90.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:42] CPU: 6.9% | RAM: 7.13GB (90.4%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:48] CPU: 20.3% | RAM: 7.07GB (89.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:06:54] CPU: 29.8% | RAM: 7.07GB (89.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:00] CPU: 24.9% | RAM: 7.07GB (89.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:06] CPU: 44.4% | RAM: 7.08GB (89.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:12] CPU: 28.3% | RAM: 7.11GB (90.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:18] CPU: 45.7% | RAM: 7.14GB (90.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:24] CPU: 18.3% | RAM: 7.16GB (90.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:30] CPU: 29.0% | RAM: 7.14GB (90.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:36] CPU: 42.9% | RAM: 7.15GB (90.7%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:42] CPU: 19.8% | RAM: 7.07GB (89.6%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:48] CPU: 13.6% | RAM: 6.94GB (87.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:07:54] CPU: 13.5% | RAM: 6.85GB (86.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:00] CPU: 16.7% | RAM: 6.85GB (86.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:06] CPU: 12.4% | RAM: 6.85GB (86.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:12] CPU: 16.3% | RAM: 6.88GB (87.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:18] CPU: 12.6% | RAM: 6.87GB (87.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:24] CPU: 26.1% | RAM: 6.87GB (87.1%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:30] CPU: 34.7% | RAM: 6.9GB (87.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:36] CPU: 24.2% | RAM: 6.9GB (87.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:42] CPU: 11.6% | RAM: 6.9GB (87.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:48] CPU: 29.2% | RAM: 6.86GB (87.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:08:54] CPU: 31.2% | RAM: 6.88GB (87.2%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:09:00] CPU: 39.4% | RAM: 6.91GB (87.5%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:09:06] CPU: 15.8% | RAM: 6.92GB (87.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:09:12] CPU: 12.5% | RAM: 6.93GB (87.9%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:09:18] CPU: 19.4% | RAM: 6.92GB (87.8%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+[22:09:24] CPU: 39.5% | RAM: 6.94GB (88.0%)
+!! ALERT: Energy Anchor Saturated. 4-Hour Correction Recommended !!
+--- Session Paused: 2026-01-31 22:09:30.057955 ---
