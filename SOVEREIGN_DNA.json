@@ -1,0 +1,7 @@
+{
+    "jump_cut_threshold": 0.015,
+    "silence_duration": 0.8,
+    "zoom_punch_level": 1.15,
+    "audio_boost": 1.2,
+    "text_color": "gold"
+}
