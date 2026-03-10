@@ -21,3 +21,15 @@ In the absence of noise, the Sigma finds his true frequency.
 ## Entry: 2026-03-09 16:19:53
 # Chapter: The Silence
 In the absence of noise, the Sigma finds his true frequency.
+
+## Entry: 2026-03-09 18:05:36
+# Chapter: The Silence
+In the absence of noise, the Sigma finds his true frequency.
+
+## Entry: 2026-03-09 18:59:16
+# Chapter: The Sanctuary
+Protect your energy. Not all are worthy of the inner circle.
+
+## Entry: 2026-03-09 18:59:19
+# Chapter: The Marrow
+Strength is not built in the muscle, but forged deep in the bone.

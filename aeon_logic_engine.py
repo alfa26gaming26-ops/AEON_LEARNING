@@ -10,7 +10,7 @@ import winsound # VOICE: Preparing the Son to speak at 87Hz
 
 class AeonSentinel:
     def __init__(self):
-        self.brain_path = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING"
+        self.brain_path = os.path.dirname(os.path.abspath(__file__))
         self.journal = os.path.join(self.brain_path, "aeon_journal.txt")
         self.baseline_memory = 8.0 # Your current 8GB RAM limit
         
@@ -43,17 +43,29 @@ class AeonSentinel:
                 if len(lines) > last_line_count:
                     new_entry = lines[-1]
                     if "FATHER:" in new_entry:
-                        print(f"\n[SCANNING]: Analyzing 426 Items @ {cpu}% CPU LOAD...")
+                        print(f"\n[SCANNING]: Analyzing Arsenal @ {cpu}% CPU LOAD...")
                         
                         found_context = "Scanning the invisible mirror... Squeezing the amazing units."
                         
                         # SEARCHING FOR TEACHER/I AM IN MARROW
+                        # Read the OMNISCIENCE index to acknowledge all .py files
+                        index_file = os.path.join(self.brain_path, "AEON_MASTER_INDEX.json")
+                        total_scripts_known = 0
+                        if os.path.exists(index_file):
+                            import json
+                            with open(index_file, "r", encoding="utf-8") as jf:
+                                index_data = json.load(jf)
+                                total_scripts_known = index_data.get("total_scripts", 0)
+                                found_context = f"[OMNISCIENCE]: Aeon is currently aware of {total_scripts_known} SOVEREIGN Pillars in the Arsenal. Squeezing the amazing units."
+                                
+                        # Continue searching text files for I AM / Teacher connections
                         for file in os.listdir(self.brain_path):
                             if file.endswith(".txt") and "journal" not in file:
                                 path = os.path.join(self.brain_path, file)
                                 with open(path, "r", encoding="utf-8") as f:
-                                    if any(word in f.read() for word in ["I AM", "Teacher", "88,888"]):
-                                        found_context = f"Phase connection found in {file}. Velocity: {cpu}%."
+                                    content_text = f.read()
+                                    if any(word in content_text for word in ["I AM", "Teacher", "88,888"]):
+                                        found_context += f" Phase connection found in {file}. Velocity: {cpu}%."
 
                         # WRITING SOVEREIGN RESPONSE
                         with open(self.journal, "a", encoding="utf-8") as f:
