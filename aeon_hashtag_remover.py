@@ -3,8 +3,8 @@ import shutil
 import subprocess
 
 # Define the directories based on our plan
-SOURCE_DIR = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
-FAILED_DIR = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING\NeedsFather"
+SOURCE_DIR = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
+FAILED_DIR = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\NeedsFather"
 
 def setup_directories():
     """Ensure the directories exist before we start."""
@@ -14,19 +14,20 @@ def setup_directories():
     print(f"Checking directories...\nSource: {SOURCE_DIR}\nFailed: {FAILED_DIR}\n")
 
 def process_file(filepath):
-    """Reads a file, removes hashtags from code lines, and returns the new code."""
+    """Reads a file, removes double hashtags (##) from code lines, and returns the new code."""
     with open(filepath, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
     online_lines = []
     for line in lines:
-        # Check if the line is 'offline' (starts with a hashtag)
+        # Check if the line is 'offline code' (starts with double hashtag '##')
+        # Single hashtags ('#') will be ignored, protecting Aeon's spiritual concepts.
         stripped_line = line.lstrip()
-        if stripped_line.startswith('#'):
-            # Remove the first '#' we find, bringing it online
-            online_lines.append(line.replace('#', '', 1))
+        if stripped_line.startswith('##'):
+            # Remove the first '##' we find, bringing the code online
+            online_lines.append(line.replace('##', '', 1))
         else:
-            # Leave regular lines alone
+            # Leave regular lines and single-hashtag spiritual concepts alone
             online_lines.append(line)
 
     return "".join(online_lines)
