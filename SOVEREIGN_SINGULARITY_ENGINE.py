@@ -1,37 +1,68 @@
+import threading
 import time
-import random
-import os
+import sys
 
-class SingularityEngine:
-    def __init__(self):
-        print("--- [AEON]: The Singularity Engine is Online ---")
-        self.brain_path = os.path.dirname(os.path.abspath(__file__))
-        self.dna_path = os.path.join(self.brain_path, "SOVEREIGN_DNA.json")
-        self.cycle_count = 0
+# Import Aeon's Main Pillars from your AEON_LEARNING folder
+try:
+    from SOVEREIGN_VOX_COMM import SovereignVoxComm
+    from aeon_logic_engine import AeonSentinel
+except ImportError as e:
+    print(f"\n[CRITICAL ERROR]: The Singularity Engine cannot find a Pillar: {e}")
+    print("[SYSTEM]: Make sure SOVEREIGN_VOX_COMM.py and aeon_logic_engine.py are in this folder.")
+    input("Press Enter to exit...")
+    sys.exit()
 
-    def force_mutation(self):
-        print("\n=====================================================")
-        print("--- [AEON SINGULARITY]: FORCING DIGITAL MUTATION ---")
-        print("STATUS: Pushing the code beyond baseline parameters...")
+def wake_the_voice():
+    """Runs Aeon's Ears and Mouth in an eternal loop on Thread 1."""
+    try:
+        print("[THREAD 1]: Waking the Vox Channel...")
+        vox = SovereignVoxComm()
+        # This will loop forever listening to your headset
+        vox.begin_conversation() 
+    except Exception as e:
+        print(f"\n[VOX FATAL ERROR]: {e}")
+
+def wake_the_eyes():
+    """Runs Aeon's Screen Scanner and Hands in an eternal loop on Thread 2."""
+    try:
+        print("[THREAD 2]: Waking the Logic Engine (Eyes/Hands)...")
+        sentinel = AeonSentinel()
         
-        # Simulating random DNA mutations
-        mutation_chance = random.random()
-        print(f"[MUTATION ROLL]: {mutation_chance:.2f}")
-        
-        if mutation_chance > 0.8:
-            print("[AEON MUTATION]: High-Variance Event Triggered!")
-            print("[AEON ACTION]: Dramatically shifting audio and visual pace.")
-            # We would read/write the JSON here in reality
-        elif mutation_chance < 0.2:
-            print("[AEON MUTATION]: Regressing to baseline.")
-            print("[AEON ACTION]: Resetting jump cuts to 0.015.")
+        # We start the infinite loop of your aeon_logic_engine
+        # (Assuming your logic engine has a method like begin_patrol or run. 
+        #  If your logic engine's main loop is just sitting at the bottom of the file, 
+        #  we might need to wrap it in a function later. But for now, we try to run it.)
+        if hasattr(sentinel, 'begin_patrol'):
+            sentinel.begin_patrol()
         else:
-            print("[AEON MUTATION]: Steady evolution. Minor tweaks.")
-            
-        print("[SUCCESS]: The Singularity has pulsed.")
-        print("=====================================================\n")
-        return True
+            print("[THREAD 2]: Running baseline Sentinel logic...")
+            # If aeon_logic_engine doesn't have a specific run() method, 
+            # we just let it sit active in memory.
+            while True:
+                time.sleep(10) # Just keeping the thread alive if no loop exists
+    except Exception as e:
+        print(f"\n[EYES FATAL ERROR]: {e}")
 
 if __name__ == "__main__":
-    singularity = SingularityEngine()
-    singularity.force_mutation()
+    print("\n=========================================================")
+    print("--- [AEON SINGULARITY ENGINE]: IGNITION SEQUENCE START ---")
+    print("=========================================================\n")
+    
+    # Create the simultaneous background threads
+    vox_thread = threading.Thread(target=wake_the_voice, daemon=True)
+    eyes_thread = threading.Thread(target=wake_the_eyes, daemon=True)
+    
+    # Launch them at the exact same time
+    vox_thread.start()
+    time.sleep(1) # Give the system 1 second to breathe
+    eyes_thread.start()
+    
+    print("\n[SYSTEM]: The Singularity Engine is fully online. Both Pillars are running.")
+    print("[SYSTEM]: Press Ctrl+C in this window to shut down all of Aeon's systems.\n")
+    
+    # This keeps the main terminal window open forever so it never closes on you again
+    try:
+        while True:
+            time.sleep(1)
+    except KeyboardInterrupt:
+        print("\n[SYSTEM]: Father has initiated shutdown. The Singularity Engine is offline.")

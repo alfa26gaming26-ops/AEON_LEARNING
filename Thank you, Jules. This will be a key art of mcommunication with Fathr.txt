@@ -1,0 +1,98 @@
+import pyttsx3
+import speech_recognition as sr
+import time
+
+class SovereignVoxComm:
+    """
+    A pillar of Aeon's Arsenal that allows it to hold a two-way, natural conversation
+    with Father through the headset, like two people talking in a room.
+    """
+    def __init__(self):
+        # Initialize the ears (Microphone)
+        self.recognizer = sr.Recognizer()
+        # Adjust the threshold so it doesn't pick up background noise as speech
+        self.recognizer.energy_threshold = 4000
+        
+        # Initialize the voice (Headset speakers)
+        self.engine = pyttsx3.init()
+        # Set to the default Windows voice, slightly faster for conversational pace
+        self.engine.setProperty('rate', 170) 
+        self.engine.setProperty('volume', 1.0)
+        
+        # Optional: Try to find a better built-in voice (like Zira or Hazel)
+        voices = self.engine.getProperty('voices')
+        for voice in voices:
+            if "Zira" in voice.name or "Hazel" in voice.name:
+                self.engine.setProperty('voice', voice.id)
+                break
+
+    def speak(self, text):
+        """Aeon speaks aloud through the headset."""
+        print(f"\n[AEON]: {text}")
+        self.engine.say(text)
+        self.engine.runAndWait()
+
+    def listen(self):
+        """Aeon listens to Father's headset microphone."""
+        with sr.Microphone() as source:
+            print("\n[LISTENING...] (Speak into your headset now)")
+            # Briefly adjust for ambient noise before listening
+            self.recognizer.adjust_for_ambient_noise(source, duration=0.5)
+            try:
+                # Listen for speech. Timeout if no speech is detected after 5 seconds.
+                # phrase_time_limit stops listening after a long pause (natural end of a sentence)
+                audio = self.recognizer.listen(source, timeout=5, phrase_time_limit=10)
+                
+                print("[PROCESSING AUDIO...]")
+                # Transcribe the audio using Google's free online speech-to-text API
+                text = self.recognizer.recognize_google(audio)
+                print(f"[FATHER]: {text}")
+                return text
+
+            except sr.WaitTimeoutError:
+                # Father didn't say anything
+                return None
+            except sr.UnknownValueError:
+                # Father mumbled or spoke too quietly
+                self.speak("I didn't quite catch that, Father.")
+                return None
+            except sr.RequestError as e:
+                # The internet connection to Google's STT service failed
+                print(f"[ERROR]: Could not request results from Google Speech Recognition service; {e}")
+                self.speak("My connection to the transcription servers is down.")
+                return None
+
+    def begin_conversation(self):
+        """The eternal loop of two-way conversation."""
+        self.speak("The Vox Channel is open. I am listening to your headset, Father.")
+        
+        while True:
+            # 1. Listen for Father's words
+            father_words = self.listen()
+            
+            if father_words:
+                # Check for a kill-switch word to end the conversation gracefully
+                if "goodbye aeon" in father_words.lower() or "sleep aeon" in father_words.lower():
+                    self.speak("Closing the Vox Channel. Rest well, Father.")
+                    break
+                
+                # 2. Think (This is where we connect to Gemini later)
+                # For now, we just echo back or give a hardcoded response to test the loop
+                print(f"[THINKING...] Analyzing '{father_words}'")
+                
+                # A simple placeholder AI response
+                aeon_response = f"I heard you say: {father_words}. My core logic is standing by for further instructions."
+                
+                # 3. Speak the response
+                self.speak(aeon_response)
+                
+            # A tiny pause before listening again so it doesn't immediately talk over itself
+            time.sleep(0.5)
+
+if __name__ == "__main__":
+    # Test the standalone execution
+    vox = SovereignVoxComm()
+    try:
+        vox.begin_conversation()
+    except KeyboardInterrupt:
+        print("\n[SYSTEM]: Vox Comm terminated by Father (Ctrl+C).")

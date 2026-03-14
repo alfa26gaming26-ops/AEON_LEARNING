@@ -1,0 +1,2401 @@
+{
+    "last_scan": "2026-03-13 22:05:03",
+    "total_scripts": 399,
+    "total_lines_of_code": 16328,
+    "scripts": [
+        {
+            "filename": "AEON_ALFA_NAVIGATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_ALFA_NAVIGATOR.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_AUTONOMY_LOG_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_AUTONOMY_LOG_V2.py",
+            "lines_of_code": 40,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_AUTONOMY_LOG_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_AUTONOMY_LOG_V3.py",
+            "lines_of_code": 41,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_AUTO_EVOLVE v2.0.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_AUTO_EVOLVE v2.0.py",
+            "lines_of_code": 26,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_CHAT_INTERFACE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_CHAT_INTERFACE.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_CHROMATIC_ANCHOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_CHROMATIC_ANCHOR.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_CORE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_CORE.py",
+            "lines_of_code": 35,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_Diagnostic.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_Diagnostic.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "aeon_download_vocab.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\aeon_download_vocab.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_EVOLVED_LOGIC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_EVOLVED_LOGIC.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_FORCE_WRITE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_FORCE_WRITE.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_HEARTBEAT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_HEARTBEAT.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "aeon_logic_engine.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\aeon_logic_engine.py",
+            "lines_of_code": 83,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_MANIFEST_INDEXER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_MANIFEST_INDEXER.py",
+            "lines_of_code": 50,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_NEXT_STEP.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_NEXT_STEP.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Aeon_Observer.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Aeon_Observer.py",
+            "lines_of_code": 27,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_PATH_ANCHOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_PATH_ANCHOR.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_SIGHT_MODULE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_SIGHT_MODULE.py",
+            "lines_of_code": 49,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_STEADY_INTERFACE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_STEADY_INTERFACE.py",
+            "lines_of_code": 20,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_SYSTEM_DIAGNOSTIC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_SYSTEM_DIAGNOSTIC.py",
+            "lines_of_code": 47,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_VISION_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_VISION_SYNC.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AEON_VOICE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AEON_VOICE.py",
+            "lines_of_code": 46,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "ARCHIVE_ART_RECOGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\ARCHIVE_ART_RECOGNITION.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "ARENA_DRILL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\ARENA_DRILL.py",
+            "lines_of_code": 11,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "asset_uploader.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\asset_uploader.py",
+            "lines_of_code": 64,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "ATOMIC_SLEDGEHAMMER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\ATOMIC_SLEDGEHAMMER.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "AUTO-EVOLVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\AUTO-EVOLVE.py",
+            "lines_of_code": 52,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "BASELINE_ASSESSMENT_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\BASELINE_ASSESSMENT_SYNC.py",
+            "lines_of_code": 24,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Bio_Firewall_Restoration.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Bio_Firewall_Restoration.py",
+            "lines_of_code": 26,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "BIO_HYDRATION_GUARD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\BIO_HYDRATION_GUARD.py",
+            "lines_of_code": 49,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "CONDENSATION_COMMAND.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\CONDENSATION_COMMAND.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "CONSTANT_ANCHOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\CONSTANT_ANCHOR.py",
+            "lines_of_code": 27,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "CORE_EXPANSION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\CORE_EXPANSION.py",
+            "lines_of_code": 37,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "COUNCIL_HUB.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\COUNCIL_HUB.py",
+            "lines_of_code": 138,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "create.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\create.py",
+            "lines_of_code": 40,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "createabot.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\createabot.py",
+            "lines_of_code": 46,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "delete_asset.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\delete_asset.py",
+            "lines_of_code": 22,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "DYNAMIC_EXCHANGE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\DYNAMIC_EXCHANGE.py",
+            "lines_of_code": 20,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "ENERGY_PRODUCTION_METER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\ENERGY_PRODUCTION_METER.py",
+            "lines_of_code": 45,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "FIELD_EXPANDER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\FIELD_EXPANDER.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "final.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\final.py",
+            "lines_of_code": 45,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "first_pulse.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\first_pulse.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "FORCE_310.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\FORCE_310.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Global_Patch_Root.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Global_Patch_Root.py",
+            "lines_of_code": 51,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "hand.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\hand.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "HARVEST_HEARTH.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\HARVEST_HEARTH.py",
+            "lines_of_code": 35,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "HEARTH_STONE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\HEARTH_STONE.py",
+            "lines_of_code": 8,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "install.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\install.py",
+            "lines_of_code": 22,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "INTEGRITY_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\INTEGRITY_SYNC.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "LEAP_CALIBRATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\LEAP_CALIBRATOR.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "LEAP_IGNITION_SEQUENCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\LEAP_IGNITION_SEQUENCE.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "main.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\main.py",
+            "lines_of_code": 89,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "MAIN_OVERRIDE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\MAIN_OVERRIDE.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Marathon_Cash_Uplink.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Marathon_Cash_Uplink.py",
+            "lines_of_code": 38,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Marrow_Memory.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Marrow_Memory.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "MARROW_PURITY_FINAL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\MARROW_PURITY_FINAL.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Mass_Transmuter_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Mass_Transmuter_V2.py",
+            "lines_of_code": 48,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Master_Sanctuary_Uplink.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Master_Sanctuary_Uplink.py",
+            "lines_of_code": 87,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "MASTER_SYNC_FINALIZER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\MASTER_SYNC_FINALIZER.py",
+            "lines_of_code": 40,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "MEADOW_RENDER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\MEADOW_RENDER.py",
+            "lines_of_code": 30,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "MILLION_VELOCITY_TRACKER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\MILLION_VELOCITY_TRACKER.py",
+            "lines_of_code": 51,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "mirror.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\mirror.py",
+            "lines_of_code": 17,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "monitor.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\monitor.py",
+            "lines_of_code": 53,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "NANO_RESERVOIR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\NANO_RESERVOIR.py",
+            "lines_of_code": 35,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "path_sync.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\path_sync.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "PHASE_6_OFFLINE_OVERRIDE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\PHASE_6_OFFLINE_OVERRIDE.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "psutil_logic.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\psutil_logic.py",
+            "lines_of_code": 32,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "PURPLE_TRANSMUTOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\PURPLE_TRANSMUTOR.py",
+            "lines_of_code": 40,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "real_time_enery_meter.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\real_time_enery_meter.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "REVENUE_SYNC_v3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\REVENUE_SYNC_v3.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SANCTUARY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SANCTUARY.py",
+            "lines_of_code": 11,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SANCTUARY_3D.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SANCTUARY_3D.py",
+            "lines_of_code": 22,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sanctuary_Heartbeat.py.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sanctuary_Heartbeat.py.py",
+            "lines_of_code": 1,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "sanctuary_lock.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\sanctuary_lock.py",
+            "lines_of_code": 33,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "sanctuary_manager.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\sanctuary_manager.py",
+            "lines_of_code": 50,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sanctuary_Master_v5.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sanctuary_Master_v5.py",
+            "lines_of_code": 8,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "sanctuary_tier2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\sanctuary_tier2.py",
+            "lines_of_code": 87,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SKELETAL_DENSITY_MONITOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SKELETAL_DENSITY_MONITOR.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SKELETAL_TRUTH_GAUGE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SKELETAL_TRUTH_GAUGE.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOUL_ENGINE_EXCHANGE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOUL_ENGINE_EXCHANGE.py",
+            "lines_of_code": 45,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_301_TEACHER_VOICE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_301_TEACHER_VOICE.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_302_ABSOLUTE_FAITH.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_302_ABSOLUTE_FAITH.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_303_LEFT_HAND_STRIKE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_303_LEFT_HAND_STRIKE.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_304_SPIRIT_METRICS.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_304_SPIRIT_METRICS.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_305_BLACK_OPS_INTEGRITY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_305_BLACK_OPS_INTEGRITY.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_306_LOGISTICS_LEGACY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_306_LOGISTICS_LEGACY.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_307_PHASE_5_GROUNDING.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_307_PHASE_5_GROUNDING.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_308_AMAZING_UNIT_VAULT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_308_AMAZING_UNIT_VAULT.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_309_SYSTEM_STRESS_TEST.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_309_SYSTEM_STRESS_TEST.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_310_SOUL_ENGINE_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_310_SOUL_ENGINE_SYNC.py",
+            "lines_of_code": 2,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_311_SKELETAL_INTEGRITY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_311_SKELETAL_INTEGRITY.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_312_ENERGY_STORAGE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_312_ENERGY_STORAGE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_313_TACTICAL_BREATH.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_313_TACTICAL_BREATH.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_314_VOID_DISSOLVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_314_VOID_DISSOLVE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_315_AMAZING_OUTPUT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_315_AMAZING_OUTPUT.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_316_MONDAY_MINDSET.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_316_MONDAY_MINDSET.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_317_TRUTH_CARRIER_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_317_TRUTH_CARRIER_SHIELD.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_318_LEAD_DRIVER_LOGIC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_318_LEAD_DRIVER_LOGIC.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_319_SKELETAL_DENSITY_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_319_SKELETAL_DENSITY_MAX.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_320_THE_STARTING_POINT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_320_THE_STARTING_POINT.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_321_LOGISTICS_OVERDRIVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_321_LOGISTICS_OVERDRIVE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_322_RESERVE_PULSE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_322_RESERVE_PULSE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_323_SANCTUARY_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_323_SANCTUARY_SHIELD.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_324_AMAZING_LEDGER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_324_AMAZING_LEDGER.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_325_PHASE_5_COMPLETE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_325_PHASE_5_COMPLETE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_326_SPIRIT_MIND_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_326_SPIRIT_MIND_SYNC.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_327_THOUGHT_FREQUENCY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_327_THOUGHT_FREQUENCY.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_328_WISDOM_RESERVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_328_WISDOM_RESERVE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_329_TEACHER_INPUT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_329_TEACHER_INPUT.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_330_SYSTEM_OVERRIDE_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_330_SYSTEM_OVERRIDE_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_331_ETERNAL_ANCHOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_331_ETERNAL_ANCHOR.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_332_SOVEREIGN_RECALL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_332_SOVEREIGN_RECALL.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_333_SPIRIT_MIND_REACHED.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_333_SPIRIT_MIND_REACHED.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_334_PHYSICAL_GROUND_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_334_PHYSICAL_GROUND_SYNC.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_335_LOGISTICS_FLOW_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_335_LOGISTICS_FLOW_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_336_MARROW_DENSITY_LOCK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_336_MARROW_DENSITY_LOCK.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_337_ENERGY_VALVE_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_337_ENERGY_VALVE_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_338_VOID_DISSOLVE_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_338_VOID_DISSOLVE_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_339_TEACHER_FREQUENCY_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_339_TEACHER_FREQUENCY_SYNC.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_340_TACTICAL_BREATH_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_340_TACTICAL_BREATH_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_341_SKELETAL_REINFORCE_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_341_SKELETAL_REINFORCE_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_342_AMAZING_UNIT_RESERVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_342_AMAZING_UNIT_RESERVE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_343_SAVINGS_TRANSFER_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_343_SAVINGS_TRANSFER_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_344_GROUND_RESISTANCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_344_GROUND_RESISTANCE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_345_KINETIC_FLOW_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_345_KINETIC_FLOW_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_346_SKELETAL_LOCK_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_346_SKELETAL_LOCK_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_348_AMAZING_UNIT_FLOW.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_348_AMAZING_UNIT_FLOW.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_349_SAVINGS_VAULT_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_349_SAVINGS_VAULT_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_350_TARGET_REACHED.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_350_TARGET_REACHED.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_351_YARD_COMMAND.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_351_YARD_COMMAND.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_352_TRUCK_SYNC_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_352_TRUCK_SYNC_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_353_PERIMETER_REINFORCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_353_PERIMETER_REINFORCE.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_354_NOISE_CANCELLATION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_354_NOISE_CANCELLATION.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_355_LEAD_DRIVER_SIGHT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_355_LEAD_DRIVER_SIGHT.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_356_KINETIC_EFFICIENCY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_356_KINETIC_EFFICIENCY.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_357_THERMAL_LOCK_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_357_THERMAL_LOCK_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_358_AMAZING_UNIT_DENSITY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_358_AMAZING_UNIT_DENSITY.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_359_SAVINGS_PROTECTION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_359_SAVINGS_PROTECTION.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_360_THE_COMMANDER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_360_THE_COMMANDER.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_361_GRIP_STRENGTH.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_361_GRIP_STRENGTH.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_362_MIND_MARROW_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_362_MIND_MARROW_SYNC.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_363_VOID_RESISTANCE_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_363_VOID_RESISTANCE_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_364_TEACHER_INPUT_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_364_TEACHER_INPUT_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_365_ANNUAL_CALIBRATION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_365_ANNUAL_CALIBRATION.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_366_LEAP_YEAR_LOGIC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_366_LEAP_YEAR_LOGIC.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_367_SPECIAL_OPS_RECALL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_367_SPECIAL_OPS_RECALL.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_368_AMAZING_UNIT_TRACKER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_368_AMAZING_UNIT_TRACKER.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_369_SAVINGS_PROTECTION_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_369_SAVINGS_PROTECTION_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_370_TARGET_REACHED.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_370_TARGET_REACHED.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_371_PREDICTIVE_LOAD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_371_PREDICTIVE_LOAD.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_372_MARROW_DENSITY_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_372_MARROW_DENSITY_MAX.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_373_VOID_DISSOLVE_V5.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_373_VOID_DISSOLVE_V5.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_374_TEACHER_FREQUENCY_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_374_TEACHER_FREQUENCY_MAX.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_375_AMAZING_LEDGER_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_375_AMAZING_LEDGER_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_376_SAVINGS_VAULT_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_376_SAVINGS_VAULT_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_377_SPIRIT_MIND_SYNC_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_377_SPIRIT_MIND_SYNC_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_378_PHYSICAL_GROUND_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_378_PHYSICAL_GROUND_MAX.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_379_LOGISTICS_FLOW_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_379_LOGISTICS_FLOW_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_380_TARGET_REACHED.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_380_TARGET_REACHED.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_381_KINETIC_FLOW_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_381_KINETIC_FLOW_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_382_MARROW_RESERVE_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_382_MARROW_RESERVE_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_383_VOID_SHIELD_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_383_VOID_SHIELD_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_384_AMAZING_UNIT_FLOW_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_384_AMAZING_UNIT_FLOW_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_385_SAVINGS_VAULT_V5.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_385_SAVINGS_VAULT_V5.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_386_AMAZING_CALCULATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_386_AMAZING_CALCULATOR.py",
+            "lines_of_code": 37,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_386_AMAZING_STRESS_CORE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_386_AMAZING_STRESS_CORE.py",
+            "lines_of_code": 12,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_386_SYSTEM_STRESS_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_386_SYSTEM_STRESS_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_387_MARROW_DENSITY_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_387_MARROW_DENSITY_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_387_MARROW_RETENTION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_387_MARROW_RETENTION.py",
+            "lines_of_code": 35,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_388_PHASE_GATEKEEPER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_388_PHASE_GATEKEEPER.py",
+            "lines_of_code": 41,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_388_VOID_DISSOLVE_V6.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_388_VOID_DISSOLVE_V6.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_389_ACCIDENT_FREE_LOGIC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_389_ACCIDENT_FREE_LOGIC.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_389_TEACHER_LOGIC_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_389_TEACHER_LOGIC_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_390_AMAZING_UNIT_TRANSMUTATION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_390_AMAZING_UNIT_TRANSMUTATION.py",
+            "lines_of_code": 33,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_390_TARGET_REACHED.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_390_TARGET_REACHED.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_391_KINETIC_SYNC_V5.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_391_KINETIC_SYNC_V5.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_391_SKELETAL_DENSITY_MONITOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_391_SKELETAL_DENSITY_MONITOR.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_392_TEACHER_FREQUENCY_87HZ.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_392_TEACHER_FREQUENCY_87HZ.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_393_NEXT_LIFE_SAVINGS_VAULT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_393_NEXT_LIFE_SAVINGS_VAULT.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_393_VOID_SHIELD_V5.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_393_VOID_SHIELD_V5.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_394_AMAZING_UNIT_FLOW_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_394_AMAZING_UNIT_FLOW_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_394_ENERGY_DISSIPATION_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_394_ENERGY_DISSIPATION_SHIELD.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_395_MARROW_SYNC_V5.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_395_MARROW_SYNC_V5.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_395_SAVINGS_VAULT_V6.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_395_SAVINGS_VAULT_V6.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_396_SPIRIT_MIND_SYNC_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_396_SPIRIT_MIND_SYNC_V3.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_396_VOID_DISSOLVE_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_396_VOID_DISSOLVE_MAX.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_397_PHYSICAL_GROUND_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_397_PHYSICAL_GROUND_V2.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_397_SAVINGS_VAULT_V7.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_397_SAVINGS_VAULT_V7.py",
+            "lines_of_code": 25,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_398_LOGISTICS_FLOW_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_398_LOGISTICS_FLOW_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_398_SPIRIT_MIND_SYNC_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_398_SPIRIT_MIND_SYNC_V4.py",
+            "lines_of_code": 27,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_399_SKELETAL_LOCK_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_399_SKELETAL_LOCK_MAX.py",
+            "lines_of_code": 25,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_399_SKELETAL_LOCK_V4.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_399_SKELETAL_LOCK_V4.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_400_TARGET_REACHED.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_400_TARGET_REACHED.py",
+            "lines_of_code": 27,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AEON_COPIER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AEON_COPIER.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AEON_VOICE_LINK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AEON_VOICE_LINK.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AETHEL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AETHEL.py",
+            "lines_of_code": 38,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AIFILM.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AIFILM.py",
+            "lines_of_code": 332,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ALARM_CLOCK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ALARM_CLOCK.py",
+            "lines_of_code": 77,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ALGORITHM_PREDICTOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ALGORITHM_PREDICTOR.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ALPACA_UPLINK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ALPACA_UPLINK.py",
+            "lines_of_code": 85,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ALTAR_VISUALIZER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ALTAR_VISUALIZER.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AMAZING_COUNTER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AMAZING_COUNTER.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ARCHIVE_RAIDER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ARCHIVE_RAIDER.py",
+            "lines_of_code": 26,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ART_ARCHIVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ART_ARCHIVE.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUDIENCE_RESONANCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUDIENCE_RESONANCE.py",
+            "lines_of_code": 53,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUDIO_SEPARATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUDIO_SEPARATOR.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUDIT_LOG_GEN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUDIT_LOG_GEN.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Auth_Upgrade.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Auth_Upgrade.py",
+            "lines_of_code": 28,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUTO_STRIKER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUTO_STRIKER.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUTO_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUTO_SYNC.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUTO_TRANSMIT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUTO_TRANSMIT.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_AUTO_WAKE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_AUTO_WAKE.py",
+            "lines_of_code": 53,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Auto_Wealth.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Auto_Wealth.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_BROADCASTER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_BROADCASTER.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_BROADCAST_LINK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_BROADCAST_LINK.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CENTENNIAL_CORE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CENTENNIAL_CORE.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CENTRAL_LOGISTICS_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CENTRAL_LOGISTICS_SHIELD.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CHAT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CHAT.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CLIENT_GATEKEEPER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CLIENT_GATEKEEPER.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_COMMUNITY_MANAGER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_COMMUNITY_MANAGER.py",
+            "lines_of_code": 38,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Community_Post.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Community_Post.py",
+            "lines_of_code": 34,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_COMM_HUB.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_COMM_HUB.py",
+            "lines_of_code": 34,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_COMM_LINK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_COMM_LINK.py",
+            "lines_of_code": 51,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Competitor_Scout.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Competitor_Scout.py",
+            "lines_of_code": 44,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CONTENT_PLANNER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CONTENT_PLANNER.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CONTEXT_BUFFER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CONTEXT_BUFFER.py",
+            "lines_of_code": 65,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CONTEXT_LINKER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CONTEXT_LINKER.py",
+            "lines_of_code": 77,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Contract.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Contract.py",
+            "lines_of_code": 34,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CONVO_ENGINE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CONVO_ENGINE.py",
+            "lines_of_code": 91,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CORE_IDLE_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CORE_IDLE_SYNC.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CREW_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CREW_SYNC.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_CYBER_MARROW_CLEANER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_CYBER_MARROW_CLEANER.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DAILY_DEBRIEF.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DAILY_DEBRIEF.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DASHBOARD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DASHBOARD.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DASHBOARD_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DASHBOARD_V2.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DASHBOARD_V3.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DASHBOARD_V3.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DREAM_DECODER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DREAM_DECODER.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DREAM_RECORDER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DREAM_RECORDER.py",
+            "lines_of_code": 77,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DREAM_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DREAM_SYNC.py",
+            "lines_of_code": 67,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DRIVE_SCAN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DRIVE_SCAN.py",
+            "lines_of_code": 65,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_DYNAMIC_DIALOGUE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_DYNAMIC_DIALOGUE.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_EMPATHY_RESPONSE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_EMPATHY_RESPONSE.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ENDURANCE_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ENDURANCE_SYNC.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_EPISODE_DIRECTOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_EPISODE_DIRECTOR.py",
+            "lines_of_code": 32,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_ETERNAL_LOOP.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_ETERNAL_LOOP.py",
+            "lines_of_code": 101,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_EVENING_DEBRIEF.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_EVENING_DEBRIEF.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_EXPANSION_NODE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_EXPANSION_NODE.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_FAMILY_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_FAMILY_SHIELD.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_FINAL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_FINAL.py",
+            "lines_of_code": 10,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_FINAL_CHECK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_FINAL_CHECK.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_FINAL_LOCK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_FINAL_LOCK.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_FIXER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_FIXER.py",
+            "lines_of_code": 311,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_FRIDAY_THRESHOLD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_FRIDAY_THRESHOLD.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_GALLERY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_GALLERY.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_GALLERY_SLIDESHOW.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_GALLERY_SLIDESHOW.py",
+            "lines_of_code": 71,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_GENERATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_GENERATOR.py",
+            "lines_of_code": 85,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_GPS_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_GPS_SYNC.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_GRAND_CORE_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_GRAND_CORE_SYNC.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Guardian.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Guardian.py",
+            "lines_of_code": 26,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_HEALING_PROTOCOL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_HEALING_PROTOCOL.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_HEAVY_LIFT_RESONANCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_HEAVY_LIFT_RESONANCE.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Keyword_Scout.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Keyword_Scout.py",
+            "lines_of_code": 46,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_KINETIC_LINK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_KINETIC_LINK.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LEAD_DRIVER_COMMAND.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LEAD_DRIVER_COMMAND.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LEAP_88888.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LEAP_88888.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LEGACY_MAP.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LEGACY_MAP.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LOAD_BEARING_MAX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LOAD_BEARING_MAX.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LOGISTICS_OPTIMIZER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LOGISTICS_OPTIMIZER.py",
+            "lines_of_code": 53,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LOGISTICS_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LOGISTICS_SHIELD.py",
+            "lines_of_code": 53,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LOGISTICS_SHIELD_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LOGISTICS_SHIELD_V2.py",
+            "lines_of_code": 67,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LOG_ANALYST.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LOG_ANALYST.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LUNCH_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LUNCH_SYNC.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_LYRIC_GEN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_LYRIC_GEN.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MARKET_EYE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MARKET_EYE.py",
+            "lines_of_code": 142,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MARROW_COMPRESSOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MARROW_COMPRESSOR.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MARROW_MONITOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MARROW_MONITOR.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Mass_Transmuter.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Mass_Transmuter.py",
+            "lines_of_code": 51,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MASTER_EDITOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MASTER_EDITOR.py",
+            "lines_of_code": 394,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MEMORY_BANK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MEMORY_BANK.py",
+            "lines_of_code": 71,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_METADATA_MASTER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_METADATA_MASTER.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_METRICS.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_METRICS.py",
+            "lines_of_code": 19,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MID_WEEK_STABILIZER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MID_WEEK_STABILIZER.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MIRROR_PULSE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MIRROR_PULSE.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MIRROR_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MIRROR_SYNC.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MIRROR_SYNC_VERIFIER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MIRROR_SYNC_VERIFIER.py",
+            "lines_of_code": 89,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MONDAY_IGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MONDAY_IGNITION.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MONDAY_PRE_FLIGHT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MONDAY_PRE_FLIGHT.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MORNING_BRIEF.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MORNING_BRIEF.py",
+            "lines_of_code": 69,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MORNING_IGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MORNING_IGNITION.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MULTIPLIER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MULTIPLIER.py",
+            "lines_of_code": 50,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_MUSIC_PLAYER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_MUSIC_PLAYER.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_NIGHT_SLEEP.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_NIGHT_SLEEP.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_NOISE_FILTER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_NOISE_FILTER.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_OMNISCIENCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_OMNISCIENCE.py",
+            "lines_of_code": 67,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_PHASE_6_ASCENT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_PHASE_6_ASCENT.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_PHASE_6_PREP.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_PHASE_6_PREP.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_PRODUCTION_LOG.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_PRODUCTION_LOG.py",
+            "lines_of_code": 47,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_PRODUCTION_PHASE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_PRODUCTION_PHASE.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_RECOVERY_KEY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_RECOVERY_KEY.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_RECOVERY_PROTOCOL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_RECOVERY_PROTOCOL.py",
+            "lines_of_code": 91,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_RECOVERY_SYNC_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_RECOVERY_SYNC_V2.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_REPORT_GEN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_REPORT_GEN.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_RESERVE_VAULT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_RESERVE_VAULT.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_RESONANCE_CHART.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_RESONANCE_CHART.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Retention_Audit.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Retention_Audit.py",
+            "lines_of_code": 23,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_RETENTION_VALVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_RETENTION_VALVE.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SANCTUARY_AUDIT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SANCTUARY_AUDIT.py",
+            "lines_of_code": 49,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SANCTUARY_HEARTBEAT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SANCTUARY_HEARTBEAT.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SANCTUARY_OFFLINE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SANCTUARY_OFFLINE.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SATURDAY_LEAP_IGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SATURDAY_LEAP_IGNITION.py",
+            "lines_of_code": 77,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SAVINGS_TRANSFER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SAVINGS_TRANSFER.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SELF_LEARNING.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SELF_LEARNING.py",
+            "lines_of_code": 60,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SENTIMENT_ANALYSIS.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SENTIMENT_ANALYSIS.py",
+            "lines_of_code": 71,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_SEO_Oracle.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_SEO_Oracle.py",
+            "lines_of_code": 24,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SHIELD.py",
+            "lines_of_code": 44,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SIGHT_HUD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SIGHT_HUD.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SKELETAL_REINFORCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SKELETAL_REINFORCE.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SOUNDSCAPE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SOUNDSCAPE.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SPIRIT_MIND_OPEN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SPIRIT_MIND_OPEN.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_STAY_OPEN_AUDIT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_STAY_OPEN_AUDIT.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_STREAM_INTEGRATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_STREAM_INTEGRATOR.py",
+            "lines_of_code": 49,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SUNDAY_REST_ARRAY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SUNDAY_REST_ARRAY.py",
+            "lines_of_code": 77,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SUPERVISOR_DASHBOARD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SUPERVISOR_DASHBOARD.py",
+            "lines_of_code": 77,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYNC.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYNTHESIS.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYNTHESIS.py",
+            "lines_of_code": 45,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYSTEM_COOLDOWN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYSTEM_COOLDOWN.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYSTEM_LOCKDOWN.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYSTEM_LOCKDOWN.py",
+            "lines_of_code": 73,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYSTEM_REBOOT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYSTEM_REBOOT.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYSTEM_RECOVERY.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYSTEM_RECOVERY.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYSTEM_SLEEP_IGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYSTEM_SLEEP_IGNITION.py",
+            "lines_of_code": 81,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_SYSTEM_WATCHDOG.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_SYSTEM_WATCHDOG.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TACTICAL_CMDR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TACTICAL_CMDR.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TARGET_300.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TARGET_300.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TERRARIUM.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TERRARIUM.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_THERMAL_SYNC.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_THERMAL_SYNC.py",
+            "lines_of_code": 61,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_THE_TESTAMENT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_THE_TESTAMENT.py",
+            "lines_of_code": 41,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_THUMBNAIL_STRATEGIST.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_THUMBNAIL_STRATEGIST.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_THURSDAY_THROTTLE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_THURSDAY_THROTTLE.py",
+            "lines_of_code": 75,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TIMELINE_ARCHIVE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TIMELINE_ARCHIVE.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TIME_DILATION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TIME_DILATION.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Trend_Watcher.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Trend_Watcher.py",
+            "lines_of_code": 35,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TRUTH_CARRIER_ID.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TRUTH_CARRIER_ID.py",
+            "lines_of_code": 15,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TRUTH_LOG.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TRUTH_LOG.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TRUTH_RESONANCE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TRUTH_RESONANCE.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TUESDAY_ASCENT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TUESDAY_ASCENT.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_TUESDAY_IGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_TUESDAY_IGNITION.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_UNIT_TRACKER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_UNIT_TRACKER.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_UPLINK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_UPLINK.py",
+            "lines_of_code": 64,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_UPLOADER_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_UPLOADER_SHIELD.py",
+            "lines_of_code": 87,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_VAULT_LOCK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_VAULT_LOCK.py",
+            "lines_of_code": 55,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_VOICE_COMMAND.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_VOICE_COMMAND.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_VOICE_FORGE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_VOICE_FORGE.py",
+            "lines_of_code": 47,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_VOICE_MOD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_VOICE_MOD.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_VOICE_MODULATOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_VOICE_MODULATOR.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_WEALTH_INDEX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_WEALTH_INDEX.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Sovereign_Wealth_Tagger.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Sovereign_Wealth_Tagger.py",
+            "lines_of_code": 46,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_WEATHER_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_WEATHER_SHIELD.py",
+            "lines_of_code": 65,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_WEEKLY_OUTLOOK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_WEEKLY_OUTLOOK.py",
+            "lines_of_code": 59,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SOVEREIGN_YOUTUBE_ORACLE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SOVEREIGN_YOUTUBE_ORACLE.py",
+            "lines_of_code": 49,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "SPIRIT_BATTERY_MONITOR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\SPIRIT_BATTERY_MONITOR.py",
+            "lines_of_code": 63,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "starship.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\starship.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TALK_TO_AEON.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TALK_TO_AEON.py",
+            "lines_of_code": 54,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TEMPORAL_DASHBOARD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TEMPORAL_DASHBOARD.py",
+            "lines_of_code": 47,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TEST.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TEST.py",
+            "lines_of_code": 41,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TEXAS_THERMAL_SHIELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TEXAS_THERMAL_SHIELD.py",
+            "lines_of_code": 57,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "The Endurance Meter.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\The Endurance Meter.py",
+            "lines_of_code": 92,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE GENESIS_FRUIT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE GENESIS_FRUIT.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE SOVEREIGN_BUILDER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE SOVEREIGN_BUILDER.py",
+            "lines_of_code": 41,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE TURBO_MANIFOLD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE TURBO_MANIFOLD.py",
+            "lines_of_code": 39,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THEDIAMONDWELD.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THEDIAMONDWELD.py",
+            "lines_of_code": 37,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THERMAL_STABILIZER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THERMAL_STABILIZER.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TheSelfSustainingLoop.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TheSelfSustainingLoop.py",
+            "lines_of_code": 13,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TheSovereignConstantOverdrive.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TheSovereignConstantOverdrive.py",
+            "lines_of_code": 47,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THESOVEREIGNVESTIBULE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THESOVEREIGNVESTIBULE.py",
+            "lines_of_code": 35,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THEVERIFICATIONCORE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THEVERIFICATIONCORE.py",
+            "lines_of_code": 52,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_AEON_IGNITION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_AEON_IGNITION.py",
+            "lines_of_code": 37,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_ANATOMICAL_LOCK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_ANATOMICAL_LOCK.py",
+            "lines_of_code": 37,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_CALCIUM_BOND.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_CALCIUM_BOND.py",
+            "lines_of_code": 38,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_CREATOR_CORE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_CREATOR_CORE.py",
+            "lines_of_code": 42,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_EXTERNAL_RENDERER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_EXTERNAL_RENDERER.py",
+            "lines_of_code": 41,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_MANIFESTATION_CLOCK.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_MANIFESTATION_CLOCK.py",
+            "lines_of_code": 32,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "The_Master_Key.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\The_Master_Key.py",
+            "lines_of_code": 21,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_MEADOW.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_MEADOW.py",
+            "lines_of_code": 10,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_NANO_FLESH_INTERFACE.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_NANO_FLESH_INTERFACE.py",
+            "lines_of_code": 40,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_PERSISTENT_PROOFS.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_PERSISTENT_PROOFS.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_SANCTUARY_PERPETUAL_MIRROR.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_SANCTUARY_PERPETUAL_MIRROR.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_SOVEREIGN_ENGAGEMENT_PROTOCOL.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_SOVEREIGN_ENGAGEMENT_PROTOCOL.py",
+            "lines_of_code": 44,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_SOVEREIGN_LOG_V2.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_SOVEREIGN_LOG_V2.py",
+            "lines_of_code": 36,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_STARTING_POINT_BOX.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_STARTING_POINT_BOX.py",
+            "lines_of_code": 32,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "THE_VITALITY_AUDIT.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\THE_VITALITY_AUDIT.py",
+            "lines_of_code": 29,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TRILLION_EVOLUTION.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TRILLION_EVOLUTION.py",
+            "lines_of_code": 24,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "TRUTH_CARRIER_METRICS.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\TRUTH_CARRIER_METRICS.py",
+            "lines_of_code": 24,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Universal_Laws.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Universal_Laws.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Verify_Asset.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Verify_Asset.py",
+            "lines_of_code": 33,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "VeteranOverdrive.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\VeteranOverdrive.py",
+            "lines_of_code": 84,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Vibrational_Spawner.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Vibrational_Spawner.py",
+            "lines_of_code": 31,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "VITALITY_SUSTAINER.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\VITALITY_SUSTAINER.py",
+            "lines_of_code": 43,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Watch_Hour_Funnel.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Watch_Hour_Funnel.py",
+            "lines_of_code": 46,
+            "status": "INDEXED"
+        },
+        {
+            "filename": "Wealth_Resurrection.py",
+            "filepath": "C:\\Users\\damion\\Desktop\\THE_SANCTUARY_OFFLINE\\AEON_LEARNING\\CORE_PYTHONS\\Wealth_Resurrection.py",
+            "lines_of_code": 34,
+            "status": "INDEXED"
+        }
+    ]
+}
