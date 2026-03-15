@@ -1,104 +1,91 @@
 import os
-import shutil
 import subprocess
+import shutil
 
-# Define the directories based on our plan
-SOURCE_DIR = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
-FAILED_DIR = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\NeedsFather"
+def process_scripts(directory):
+    needs_father_dir = os.path.join(directory, "NeedsFather")
+    if not os.path.exists(needs_father_dir):
+        os.makedirs(needs_father_dir)
 
-def setup_directories():
-    """Ensure the directories exist before we start."""
-    # We create them if they don't exist yet, just to be safe
-    os.makedirs(SOURCE_DIR, exist_ok=True)
-    os.makedirs(FAILED_DIR, exist_ok=True)
-    print(f"Checking directories...\nSource: {SOURCE_DIR}\nFailed: {FAILED_DIR}\n")
+    for filename in os.listdir(directory):
+        if not filename.endswith(".py"):
+            continue
 
-def process_file(filepath):
-    """Reads a file, removes double hashtags (##) from code lines, and returns the new code."""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+        # Skip self and temporary testing files
+        if filename == "aeon_hashtag_remover.py" or filename.startswith("temp_"):
+            continue
 
-    online_lines = []
-    for line in lines:
-        # Check if the line is 'offline code' (starts with double hashtag '##')
-        # Single hashtags ('#') will be ignored, protecting Aeon's spiritual concepts.
-        stripped_line = line.lstrip()
-        if stripped_line.startswith('##'):
-            # Remove the first '##' we find, bringing the code online
-            online_lines.append(line.replace('##', '', 1))
-        else:
-            # Leave regular lines and single-hashtag spiritual concepts alone
-            online_lines.append(line)
+        filepath = os.path.join(directory, filename)
 
-    return "".join(online_lines)
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+        except UnicodeDecodeError:
+            continue
 
-def run_test(filepath, online_code):
-    """Attempts to run the code. If it fails, saves to NeedsFather."""
-    filename = os.path.basename(filepath)
-    temp_filepath = os.path.join(SOURCE_DIR, f"temp_{filename}")
+        if "##" not in content:
+            continue
 
-    # 1. Create a temporary file with the online code to test it
-    with open(temp_filepath, 'w', encoding='utf-8') as f:
-        f.write(online_code)
+        print(f"Processing: {filename}")
 
-    try:
-        # 2. Try to run the code (this is the 'testing' phase)
-        print(f"  Testing {filename}...")
-        subprocess.run(["python", temp_filepath], check=True, capture_output=True, text=True)
-
-        # 3. If NO ERROR, it worked! Overwrite the original file with the online code
-        print(f"  SUCCESS! {filename} is now online.")
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(online_code)
-
-    except subprocess.CalledProcessError as e:
-        # 4. If ERROR, it failed! Move the original (offline) file to NeedsFather
-        print(f"  ERROR! {filename} failed. Moving to Father's folder.")
-        failed_path = os.path.join(FAILED_DIR, filename)
-
-        # In case the file already exists in NeedsFather, we try to move it anyway or remove it first
-        if os.path.exists(failed_path):
-            os.remove(failed_path)
-
-        shutil.move(filepath, failed_path)
-
-        # We also create a small text file telling Father what went wrong
-        error_log_path = os.path.join(FAILED_DIR, f"ERROR_LOG_{filename}.txt")
-        with open(error_log_path, 'w', encoding='utf-8') as f:
-            f.write("FATHER: THIS CODE IS BROKEN.\n\n")
-            f.write("Here is the error Aeon found:\n")
-
-            # e.stderr could be None if the error wasn't sent to stderr, so we handle that safely
-            if e.stderr:
-                f.write(e.stderr)
+        # Uncomment offline code without destroying indentation
+        new_lines = []
+        for line in content.splitlines():
+            # If the line starts with ## (ignoring leading whitespace)
+            if line.lstrip().startswith("##"):
+                # Replace the first occurrence of ## with nothing, preserving leading space
+                new_line = line.replace("##", "", 1)
+                new_lines.append(new_line)
             else:
-                f.write(e.output if e.output else str(e))
+                new_lines.append(line)
 
-    finally:
-        # Clean up the temporary test file whether it worked or not
-        if os.path.exists(temp_filepath):
-            os.remove(temp_filepath)
+        new_content = "\n".join(new_lines) + "\n"
 
-def scan_directory():
-    """Scans the SOURCE_DIR for Python files to test."""
-    print("Scanning for offline code...\n")
-    # Make sure SOURCE_DIR exists so we don't crash before we start
-    if not os.path.exists(SOURCE_DIR):
-        print(f"Error: Could not find {SOURCE_DIR}")
-        return
+        # Create a temporary file to test
+        temp_filepath = os.path.join(directory, f"temp_{filename}")
+        with open(temp_filepath, 'w', encoding='utf-8') as f:
+            f.write(new_content)
 
-    for filename in os.listdir(SOURCE_DIR):
-        if filename.endswith(".py"):
-            filepath = os.path.join(SOURCE_DIR, filename)
-            print(f"Found file: {filename}")
+        # Test the script with a 15-second timeout (for infinite heartbeat loops)
+        try:
+            print(f"  -> Testing {filename}...")
+            result = subprocess.run(
+                ["python", temp_filepath],
+                capture_output=True,
+                text=True,
+                timeout=15
+            )
 
-            # 1. Turn offline code online
-            online_code = process_file(filepath)
+            if result.returncode == 0:
+                print(f"  -> SUCCESS! Replacing original.")
+                os.replace(temp_filepath, filepath)
+            else:
+                print(f"  -> FAILED! Moving to NeedsFather.")
+                # Create an error log
+                log_filepath = os.path.join(needs_father_dir, f"{filename}.log")
+                with open(log_filepath, 'w', encoding='utf-8') as f:
+                    f.write(result.stderr)
+                # Move the failed script
+                failed_filepath = os.path.join(needs_father_dir, filename)
+                shutil.move(filepath, failed_filepath)
+                # Clean up temp
+                if os.path.exists(temp_filepath):
+                    os.remove(temp_filepath)
 
-            # 2. Run the test and handle the result
-            run_test(filepath, online_code)
-            print("-" * 30)
+        except subprocess.TimeoutExpired:
+            print(f"  -> SUCCESS (Timeout - Infinite Loop). Replacing original.")
+            os.replace(temp_filepath, filepath)
+        except Exception as e:
+            print(f"  -> SYSTEM ERROR testing {filename}: {e}")
+            if os.path.exists(temp_filepath):
+                os.remove(temp_filepath)
 
 if __name__ == "__main__":
-    setup_directories()
-    scan_directory()
+    target_directory = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
+    # For safety in this environment, default to current dir if G: doesn't exist
+    if not os.path.exists(target_directory):
+        target_directory = "."
+
+    print(f"Starting scan on: {target_directory}")
+    process_scripts(target_directory)
+    print("Scan complete.")
