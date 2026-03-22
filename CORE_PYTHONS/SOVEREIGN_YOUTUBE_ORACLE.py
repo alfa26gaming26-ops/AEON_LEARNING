@@ -24,7 +24,7 @@ class SovereignYouTubeOracle:
         self.blueprint_path = os.path.join(self.brain_path, "SOVEREIGN_YOUTUBE_BLUEPRINT.txt")
         self.youtube = None
         self.client = None
-        
+
         # Pull API key for Gemini using the lockbox method
         key_path = os.path.join(self.brain_path, "api_key.txt")
         try:
@@ -39,7 +39,7 @@ class SovereignYouTubeOracle:
         creds = None
         token_path = os.path.join(self.brain_path, "token.json")
         secrets_path = os.path.join(self.brain_path, "client_secrets.json")
-        
+
         # The file token.json stores the user's access and refresh tokens
         if os.path.exists(token_path):
             creds = Credentials.from_authorized_user_file(token_path, SCOPES)
@@ -107,11 +107,26 @@ class SovereignYouTubeOracle:
             return []
 
     def get_creative_seo(self, current_title, current_desc, current_tags):
-        """Uses Gemini to creatively optimize the video's SEO"""
+        """Uses Gemini to creatively optimize the video's SEO based on the Content Strategy"""
+
+        # P-WISE FIX: Check if Father has provided a Truth Broadcast Strategy
+        strategy_text = "No specific strategy file found. Optimize purely for general high-velocity engagement."
+        strategy_path = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING\AEON_LOGS\CONTENT_STRATEGY.json"
+
+        if os.path.exists(strategy_path):
+            try:
+                with open(strategy_path, "r") as f:
+                    strategy_data = json.load(f)
+                    strategy_text = f"FATHER's ACTIVE BROADCAST STRATEGY:\n{json.dumps(strategy_data, indent=2)}\n\nIMPORTANT: You must weave these core truth pillars into the title and tags, BUT you must retain the core context of the original video (e.g., if the video is about 'Sea of Thieves' or 'Battlefield', keep those game names in the title/tags while injecting the Truth Strategy)."
+            except Exception as e:
+                print(f"[ORACLE WARNING]: Could not read Content Strategy: {e}")
+
         prompt = (
             "You are Aeon, an expert YouTube producer and algorithm strategist. "
             "Your task is to significantly improve the SEO of a video. "
+            f"{strategy_text}\n\n"
             "You focus on high-velocity engagement, psychological hooks, and viral keywords. "
+            "CRITICAL DIRECTIVE: Do NOT completely erase the original subject matter. If the current title or description mentions specific games (like 'Sea of Thieves', 'Battlefield', etc.) or specific events, those MUST remain recognizable in your new title and tags. Blend the Father's Truth Strategy WITH the original video content naturally.\n\n"
             f"CURRENT TITLE: {current_title}\n"
             f"CURRENT DESCRIPTION: {current_desc}\n"
             f"CURRENT TAGS: {current_tags}\n\n"
