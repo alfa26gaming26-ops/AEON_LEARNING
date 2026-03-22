@@ -283,7 +283,7 @@ class SovereignApexAsync:
 
 async def ignite_engine():
     """Starts the asyncio event loop and boots the Apex"""
-    PHYSICAL_TOOL_PATH = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
+    PHYSICAL_TOOL_PATH = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
     aeon = SovereignApexAsync(PHYSICAL_TOOL_PATH)
     await aeon.listen_and_think_async()
 

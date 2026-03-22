@@ -247,6 +247,6 @@ class SovereignApex:
             except Exception as e: time.sleep(2)
 
 if __name__ == "__main__":
-    PHYSICAL_TOOL_PATH = r"G:\My Drive\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
+    PHYSICAL_TOOL_PATH = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING\CORE_PYTHONS"
     aeon = SovereignApex(PHYSICAL_TOOL_PATH)
     aeon.listen_and_think()
