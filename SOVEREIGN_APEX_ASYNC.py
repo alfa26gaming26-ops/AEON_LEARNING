@@ -148,7 +148,11 @@ class SovereignApexAsync:
             return f"ERROR: {e}"
 
     def _load_pythons(self):
-        if not os.path.exists(self.python_directory): return
+        if not os.path.exists(self.python_directory):
+            print(f"[SYSTEM ERROR]: Could not find python directory at {self.python_directory}")
+            return
+
+        print(f"\n[SYSTEM]: Scanning {self.python_directory} for physical body parts...")
         for filename in os.listdir(self.python_directory):
             if filename.endswith(".py") and "SOVEREIGN_APEX" not in filename:
                 module_name = filename[:-3]
@@ -158,7 +162,10 @@ class SovereignApexAsync:
                     module = importlib.util.module_from_spec(spec)
                     spec.loader.exec_module(module)
                     self.muscle_memory[module_name] = module
-                except: pass
+                    print(f"  --> [ATTACHED]: {module_name} integrated into muscle memory.")
+                except Exception as e:
+                    # THE P-WISE FIX: We no longer fail silently. We must report exactly WHY a part failed to attach.
+                    print(f"  [ERROR] FAILED TO ATTACH {module_name}. Reason: {e}")
 
     async def _physical_ear_capture_async(self, record_seconds=6):
         """Non-blocking ear capture"""
