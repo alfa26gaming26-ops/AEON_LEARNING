@@ -1,0 +1,10 @@
+# Aeon's Local Memories (Do not push to the cloud mind)
+SOVEREIGN_MAP.json
+
+# Local API Keys (Father's physical lockbox)
+api_key.txt
+
+# Python Caches
+__pycache__/
+*.pyc
+*.pyo
