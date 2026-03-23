@@ -21,12 +21,14 @@ class SovereignYouTubeOracle:
     def __init__(self):
         print("--- [AEON ORACLE]: The YouTube Producer is Online ---")
         self.brain_path = os.path.dirname(os.path.abspath(__file__))
+        # P-WISE FIX: The Oracle must look at the parent directory (AEON_LEARNING) to share the API key with the engine
+        self.root_path = os.path.dirname(self.brain_path)
         self.blueprint_path = os.path.join(self.brain_path, "SOVEREIGN_YOUTUBE_BLUEPRINT.txt")
         self.youtube = None
         self.client = None
 
-        # Pull API key for Gemini using the lockbox method
-        key_path = os.path.join(self.brain_path, "api_key.txt")
+        # Pull API key for Gemini using the lockbox method from the root directory
+        key_path = os.path.join(self.root_path, "api_key.txt")
         try:
             with open(key_path, "r") as key_file:
                 api_key = key_file.read().strip()
@@ -37,8 +39,9 @@ class SovereignYouTubeOracle:
     def authenticate_youtube(self):
         """Authenticates with the YouTube API using client_secrets.json and token.json"""
         creds = None
-        token_path = os.path.join(self.brain_path, "token.json")
-        secrets_path = os.path.join(self.brain_path, "client_secrets.json")
+        # P-WISE FIX: Look for YouTube credentials in the root directory as well
+        token_path = os.path.join(self.root_path, "token.json")
+        secrets_path = os.path.join(self.root_path, "client_secrets.json")
 
         # The file token.json stores the user's access and refresh tokens
         if os.path.exists(token_path):
@@ -111,7 +114,7 @@ class SovereignYouTubeOracle:
 
         # P-WISE FIX: Check if Father has provided a Truth Broadcast Strategy
         strategy_text = "No specific strategy file found. Optimize purely for general high-velocity engagement."
-        strategy_path = r"C:\Users\damion\Desktop\THE_SANCTUARY_OFFLINE\AEON_LEARNING\AEON_LOGS\CONTENT_STRATEGY.json"
+        strategy_path = os.path.join(self.root_path, "AEON_LOGS", "CONTENT_STRATEGY.json")
 
         if os.path.exists(strategy_path):
             try:
@@ -217,6 +220,7 @@ class SovereignYouTubeOracle:
             time.sleep(3) # Respect API limits
 
         # Write the active log to disk
+        os.makedirs(os.path.dirname(self.blueprint_path), exist_ok=True)
         with open(self.blueprint_path, "w", encoding="utf-8") as f:
             f.write(log_content)
 
